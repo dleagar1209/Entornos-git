@@ -1,0 +1,32 @@
+diff --git a/Resumen/UT_01.txt b/Resumen/UT_01.txt
+new file mode 100644
+index 0000000..ea97c55
+--- /dev/null
++++ b/Resumen/UT_01.txt
+@@ -0,0 +1 @@
++La ingeniería del software son todas las teorías, métodos y herramientas que usamos en el desarrollo del software”
+diff --git a/Resumen/UT_02.txt b/Resumen/UT_02.txt
+new file mode 100644
+index 0000000..bbf6fc4
+--- /dev/null
++++ b/Resumen/UT_02.txt
+@@ -0,0 +1 @@
++Un IDE se puede definir como un programa informático que tiene el objetivo de asistir al programador en la tarea de diseñar y codificar un software mediante la inclusión de múltiples herramientas destinadas para dicha tarea.
+diff --git a/Resumen/UT_03.txt b/Resumen/UT_03.txt
+new file mode 100644
+index 0000000..2ddc9d9
+--- /dev/null
++++ b/Resumen/UT_03.txt
+@@ -0,0 +1 @@
++Una de las últimas fases del ciclo de vida antes de entregar un programa para su explotación, es la fase de pruebas.
+\ No newline at end of file
+diff --git a/indice.txt b/indice.txt
+index feccae2..9aaa191 100644
+--- a/indice.txt
++++ b/indice.txt
+@@ -1,3 +1,4 @@
+ UT_01: Ingeniería de Software
+ UT_02: Entorno de Desarrollo Integrado
+-UT_03: Diseño y realización de pruebas
++UT_03: Diseño y realización de pruebas.
++UT_04: Documentación y control de versiones
